@@ -1,1 +1,2 @@
 Hello World!  This is my first file in the Git-it workshopper.  Pretty cool what all it teaches you.  Really nice.
+I understand that once I finish this workshopper my git and github profiles will have a bunch of green boxes.  I'm not sure what that means but it certainly sounds positive.
