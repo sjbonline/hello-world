@@ -1,0 +1,1 @@
+Hello World!  This is my first file in the Git-it workshopper.  Pretty cool what all it teaches you.  Really nice.
